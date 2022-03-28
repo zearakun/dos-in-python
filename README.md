@@ -7,3 +7,9 @@
 # 対応os
 大体のosは対応しています<br>
 Windows・mac・Linux・androidも頑張ればいけます
+# 使い人へ
+__教育用ですので使わないでください__と書いています<br>
+使いたい場合は
+<code>
+https://x.gd/rssyo
+</code>
