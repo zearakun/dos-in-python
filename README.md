@@ -9,9 +9,9 @@
 Windows・mac・Linux・androidも頑張ればいけます
 # 使い人へ
 __教育用ですので使わないでください__と書いています<br>
-使いたい場合は
+使いたい場合は<br>
 <code>
-dos in python!!!
-#dos-in-python in python
+dos in python!!!<br>
+#dos-in-python in python<br>
 https://x.gd/rssyo
 </code>
