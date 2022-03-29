@@ -11,8 +11,8 @@ Windows・mac・Linux・androidも頑張ればいけます
 __教育用ですので使わないでください__と書いています<br>
 使いたい場合は<br>
 ```
-dos in python!!!<br>
-#dos-in-python in python<br>
+dos in python!!!
+#dos-in-python in python
 https://x.gd/rssyo
 ```
 とツイートツイート！
