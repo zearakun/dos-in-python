@@ -10,11 +10,11 @@ Windows・mac・Linux・androidも頑張ればいけます
 # 使い人へ
 __教育用ですので使わないでください__と書いています<br>
 使いたい場合は<br>
-<code>
+```
 dos in python!!!<br>
 #dos-in-python in python<br>
 https://x.gd/rssyo
-</code>
+```
 とツイートツイート！
 <a href="https://twitter.com/intent/tweet?hashtags=attack,cyber,dos&text=zearaさんが作ったそうです!!!皆さん広めてください！&url=https://github.com/zearakun/dos-in-python/" target="_blank">ツイートする</a>
 
