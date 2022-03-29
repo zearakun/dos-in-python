@@ -15,3 +15,4 @@ dos in python!!!<br>
 #dos-in-python in python<br>
 https://x.gd/rssyo
 </code>
+とツイートツイート！
