@@ -16,4 +16,6 @@ dos in python!!!<br>
 https://x.gd/rssyo
 </code>
 とツイートツイート！
+<a href="https://twitter.com/intent/tweet?hashtags=attack,cyber,dos&text=zearaさんが作ったそうです!!!皆さん広めてください！&url=https://github.com/zearakun/dos-in-python/" target="_blank">ツイートする</a>
+
 
